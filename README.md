@@ -31,7 +31,7 @@
 - [Hadoop File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#Introduction) (Hybrid / Open Source / Hadoop-ecosystem)
 - [AWS S3](https://aws.amazon.com/en/s3/) (AWS Cloud / Stroage Object)
 - [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs) (Azure Cloud / Storage Object)
-- [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (GCP Cloud / Storage Object)
+- [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (Google Cloud / Storage Object)
 - [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
 
 
@@ -50,7 +50,7 @@
 - [Snowflake](https://www.snowflake.com/) (Multi-cloud / SQL-friendly / Subscription fee)
 - [AWS Redshift](https://aws.amazon.com/en/redshift/) (AWS Cloud / SQL-friendly / Subscription fee)
 - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) (Azure Cloud / SQL-friendly / Subscription fee)
-- [GCP BigQuery](https://cloud.google.com/bigquery/) (GCP Cloud / SQL-friendly / On-demand fee)
+- [GCP BigQuery](https://cloud.google.com/bigquery/) (Google Cloud / SQL-friendly / On-demand fee)
 - [IBM DB2](https://www.ibm.com/us-en/products/db2-database) (IBM / On-prem / SQL-friendly / Subscription fee)
 
 ## Query Engine
@@ -74,47 +74,47 @@
 
 ## Data Analysis
 
-- [Apache Superset](https://superset.apache.org/) (TBD)
-- [Apache Airpal](http://airbnb.io/airpal/) (TBD)
-- [Apache HUE](https://gethue.com/) (TBD)
-- [Databricks Notebook](https://docs.databricks.com/notebooks/index.html) (TBD)
-- [Jupyter Notebook](https://jupyter.org/) (TBD)
-- [Pandas](https://pandas.pydata.org/) (TBD)
-- [Plotly](https://plotly.com/) (TBD)
+- [Apache Superset](https://superset.apache.org/) (Apache foundation / Airbnb / Business Intelligence (BI) / Open Source / Free)
+- [Apache Airpal](http://airbnb.io/airpal/) (Apache foundation / Airbnb / Query Editor / Open Source / Free)
+- [Apache HUE](https://gethue.com/) (Apache foundation / Cloudera / Query Editor / Open Source / Free)
+- [Databricks Notebook](https://docs.databricks.com/notebooks/index.html) (Databricks / Notebook / Hybrid fee)
+- [Jupyter Notebook](https://jupyter.org/) (Jupyter / Notebook / Open Source / Free)
+- [Pandas](https://pandas.pydata.org/) (NumFOCUS / Data processing / Open Source / Free)
+- [Plotly](https://plotly.com/) (Plotly / Data visualization / Hybrid fee)
 
 ## Data Format
 
-- [Apache Parquet](https://parquet.apache.org/) (TBD)
-- [Apache ORC](https://orc.apache.org/) (TBD)
-- [Apache Avro](https://avro.apache.org/) (TBD)
-- [Delta](https://delta.io/) (TBD)
-- [JSON](https://www.json.org/) (TBD)
-- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) (TBD)
-- [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) (TBD)
-- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) (TBD)
-- [Apache Arrow](https://arrow.apache.org/) (TBD)
+- [Apache Parquet](https://parquet.apache.org/) (Apache foundation / Data Format / Open Source / Free)
+- [Apache ORC](https://orc.apache.org/) (Apache foundation / Hortonworks / Facebook / Data Format / Open Source / Free)
+- [Apache Avro](https://avro.apache.org/) (Apache foundation / Data Format / Open Source / Free)
+- [Apache Arrow](https://arrow.apache.org/) (Apache foundation / Data Format / Open Source / Free)
+- [Delta](https://delta.io/) (Databricks / Data Format / Free or License fee)
+- [JSON](https://www.json.org/) (Data Format / Free)
+- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) (Data Format / Free)
+- [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) (Data Format / Free)
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) (The HDF Group / Data Format / Open Source (licensed by [HDF5](https://www.hdfgroup.org/licenses.)) / Free)
 
 ## Business Intelligence
 
-- [Apache Zeppelin](https://zeppelin.apache.org/) (TBD)
-- [Tableau](https://www.tableau.com/) (TBD)
-- [Redash](https://redash.io/) (TBD)
-- [Data Studio](https://datastudio.google.com/) (TBD)
-- [PowerBI](https://powerbi.microsoft.com/) (TBD)
+- [Apache Zeppelin](https://zeppelin.apache.org/) (Apache foundation / Hadoop-friendly / Business Intelligence (BI) / Open Source / Free or License fee)
+- [Tableau](https://www.tableau.com/) (Salesforce / Business Intelligence (BI) / Hybrid fee)
+- [Redash](https://redash.io/) (Redash Inc / Databricks / Business Intelligence (BI) / Hybrid fee)
+- [Data Studio](https://datastudio.google.com/) (Google Cloud / Business Intelligence (BI) / Free)
+- [PowerBI](https://powerbi.microsoft.com/) (Microsoft / Business Intelligence (BI) / Subscription fee)
 
 ## AI/ML
 
-- [H2O](https://www.h2o.ai/) (TBD)
-- [Feast](https://feast.dev/) (TBD)
-- [VertexAI](https://cloud.google.com/vertex-ai) (TBD)
-- [Data Robot](https://www.datarobot.com/) (TBD)
+- [H2O](https://www.h2o.ai/) (H2O.ai / Model Evaluation / Subscription fee)
+- [Feast](https://feast.dev/) (Tecton / Gojek / Feature Store / Open Source / Free)
+- [Vertex AI](https://cloud.google.com/vertex-ai) (Google Cloud / Hybrid Features for AI / Subscription fee)
+- [Data Robot](https://www.datarobot.com/) (DataRobot Inc / Feature Engineering / Subscription fee)
 
 # Community
 
 ## Vendors
 
-- [Databricks | Data + AI Summit](https://databricks.com/dataaisummit) (TBD)
+- [Databricks | Data + AI Summit](https://databricks.com/dataaisummit)
 
 ## Open Source / Foundation
 
-- [Kafka Summit](https://www.kafka-summit.org/) (TBD)
+- [Kafka Summit](https://www.kafka-summit.org/)
