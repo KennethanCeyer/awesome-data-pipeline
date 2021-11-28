@@ -11,10 +11,10 @@
    - [Data Storage](#data-storage)
    - [Streaming](#streaming)
    - [Data Analysis](#data-analysis)
-   - [AI/ML](#ai-ml)
+   - [AI/ML](#aiml)
 - [Community](#community)
    - [Vendors](#vendors)
-   - [Open Source / Foundation](#open-source-foundation)
+   - [Open Source / Foundation](#open-source--foundation)
 
 # Components
 
