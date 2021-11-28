@@ -69,7 +69,8 @@
 
 - [Apache Spark](https://spark.apache.org/) (Apache foundation / Databricks / In-memory processing / Open Source / Free or License fee)
 - [Apache Beam](https://beam.apache.org/) (Apache foundation / Google / Data processing / Open Source / Free or License fee)
-- [Apache Storm](https://storm.apache.org/) (Apache foundation / Backtype / Twitter / Streamming processing / Open Source / Free or License fee)
+- [Apache Storm](https://storm.apache.org/) (Apache foundation / Backtype / Twitter / Stream processing / Open Source / Free)
+- [Apache Flink](https://flink.apache.org/) (Apache foundation / Stream processing / Open Source / Free)
 - [AWS Glue](https://aws.amazon.com/en/glue/) (AWS Cloud / Integrated Data System / ETL / On-demand fee)
 
 ## Data Analysis
@@ -87,6 +88,7 @@
 - [Apache Parquet](https://parquet.apache.org/) (Apache foundation / Data Format / Open Source / Free)
 - [Apache ORC](https://orc.apache.org/) (Apache foundation / Hortonworks / Facebook / Data Format / Open Source / Free)
 - [Apache Avro](https://avro.apache.org/) (Apache foundation / Data Format / Open Source / Free)
+- [Apache Kudu](https://kudu.apache.org/) (Apache foundation / Cloudera / Data Format / Open Source / Free)
 - [Apache Arrow](https://arrow.apache.org/) (Apache foundation / Data Format / Open Source / Free)
 - [Delta](https://delta.io/) (Databricks / Data Format / Free or License fee)
 - [JSON](https://www.json.org/) (Data Format / Free)
@@ -108,6 +110,7 @@
 - [Feast](https://feast.dev/) (Tecton / Gojek / Feature Store / Open Source / Free)
 - [Vertex AI](https://cloud.google.com/vertex-ai) (Google Cloud / Hybrid Features for AI / Subscription fee)
 - [Data Robot](https://www.datarobot.com/) (DataRobot Inc / Feature Engineering / Subscription fee)
+- [WandB](https://wandb.ai/) (Weights & Biases / Model Evaluation / Subscription fee)
 
 # Community
 
