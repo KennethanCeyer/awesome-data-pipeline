@@ -74,7 +74,38 @@
 
 ## Data Analysis
 
+- [Databricks Notebook]() (TBD)
+- [Jupyter Notebook]() (TBD)
+- [Pandas]() (TBD)
+- [Apache Arrow]() (TBD)
+- [Flotly]() (TBD)
+
+## Data Format
+
+- [Apache Parquet]() (TBD)
+- [Apache ORC]() (TBD)
+- [Apache Avro]() (TBD)
+- [Delta]() (TBD)
+- [JSON]() (TBD)
+- [CSV]() (TBD)
+- [TSV]() (TBD)
+- [HDF5]() (TBD)
+
+## Business Intelligence
+
+- [Tableau]() (TBD)
+- [Redash]() (TBD)
+- [Data Studio]() (TBD)
+- [PowerBI]() (TBD)
+- [Apache Zeppelin]() (TBD)
+- [Apache HUE]() (TBD)
+
 ## AI/ML
+
+- [H2O]() (TBD)
+- [Feast]() (TBD)
+- [VertexAI]() (TBD)
+- [Datarobot]() (TBD)
 
 # Community
 
