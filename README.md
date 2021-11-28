@@ -8,6 +8,7 @@
    - [Data Ingestion](#data-ingestion)
    - [Data Lake](#data-lake)
    - [Data Warehouse](#data-warehouse)
+   - [Data Store](#data-store)
    - [Query Engine](#query-engine)
    - [Data Storage](#data-storage)
    - [Streaming](#streaming)
@@ -54,6 +55,12 @@
 - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) (Azure Cloud / SQL-friendly / Subscription fee)
 - [GCP BigQuery](https://cloud.google.com/bigquery/) (Google Cloud / SQL-friendly / On-demand fee)
 - [IBM DB2](https://www.ibm.com/us-en/products/db2-database) (IBM / On-prem / SQL-friendly / Subscription fee)
+
+## Data Store
+
+- [Apache Druid](https://druid.apache.org/) (Apache foundation / Real-time datastore / Free)
+- [Apache Pinot](https://pinot.apache.org/) (Apache foundation / Real-time datastore / Free)
+- [GCP Cloud Spanner](https://cloud.google.com/spanner/) (Google Cloud / HA datastore that breaks away from CAP / Subscription fee)
 
 ## Query Engine
 
