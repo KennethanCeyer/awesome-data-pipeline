@@ -5,10 +5,11 @@
 
 - [Components](#components)
    - [Workflow Management](#workflow-management)
+   - [Data Ingestion](#data-ingestion)
    - [Data Lake](#data-lake)
    - [Data Warehouse](#data-warehouse)
    - [Query Engine](#query-engine)
-   - [ETL](#etl)
+   - [ETL/ELT](#etlelt)
    - [Data Storage](#data-storage)
    - [Streaming](#streaming)
    - [Data Analysis](#data-analysis)
@@ -34,8 +35,18 @@
 - [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (GCP Cloud / Storage Object)
 - [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
 
+
+## Data Ingestion
+
+- [Logstash](https://www.elastic.co/logstash/) (Elastic / Cloud or On-prem / Hybrid fee)
+- [Filebeat](https://www.elastic.co/beats/filebeat) (Elastic / Cloud or On-prem / Hybrid fee)
+- [Fluentd](https://www.fluentd.org/) (CNCF foundation / Open Source / Free or License fee)
+- [Datadog](https://www.datadoghq.com/) (Datadog / Cloud / APM / Subscription fee)
+- [New Relic](https://newrelic.com/) (New Relic / Cloud / APM / Subscription fee)
+
 ## Data Warehouse
 
+- [Aapache Hive]() ()
 - [Snowflake](https://www.snowflake.com/) (Multi-cloud / SQL-friendly / Subscription fee)
 - [AWS Redshift](https://aws.amazon.com/en/redshift/) (AWS Cloud / SQL-friendly / Subscription fee)
 - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) (Azure Cloud / SQL-friendly / Subscription fee)
@@ -49,9 +60,12 @@
 - [AWS Athena](https://aws.amazon.com/en/athena/) (AWS Cloud / SQL-friendly / On-demand fee)
 - [AWS Redshift Spectrum](https://docs.aws.amazon.com/en_us/redshift/latest/dg/c-using-spectrum.html) (AWS Cloud / SQL-friendly / On-demand fee)
 
-## ETL
-
 ## Streaming
+
+- [Apache Kafka](https://kafka.apache.org/) (Apache foundation / Confluent / Linkedin / Message Broker / Open Source / Free or License fee)
+- [RabbitMQ](https://www.rabbitmq.com/) (VMWare / Message Broker / Free or License fee)
+
+## ETL/ELT
 
 ## Data Analysis
 
