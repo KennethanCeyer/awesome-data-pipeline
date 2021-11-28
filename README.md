@@ -116,7 +116,7 @@
 
 ## Business Intelligence
 
-- [Apache Zeppelin](https://zeppelin.apache.org/) (Apache foundation / Hadoop-friendly / Business Intelligence (BI) / Open Source / Free or License fee)
+- [Apache Zeppelin](https://zeppelin.apache.org/) (Apache foundation / Business Intelligence (BI) / Open Source / Free or License fee)
 - [Tableau](https://www.tableau.com/) (Salesforce / Business Intelligence (BI) / Hybrid fee)
 - [Redash](https://redash.io/) (Redash Inc / Databricks / Business Intelligence (BI) / Hybrid fee)
 - [Looker](https://looker.com/) (Looker Data Sciences Inc / Business Intelligence (BI) / Subscription fee)
