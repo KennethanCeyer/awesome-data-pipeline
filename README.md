@@ -9,7 +9,6 @@
    - [Data Lake](#data-lake)
    - [Data Warehouse](#data-warehouse)
    - [Query Engine](#query-engine)
-   - [ETL/ELT](#etlelt)
    - [Data Storage](#data-storage)
    - [Streaming](#streaming)
    - [Data Analysis](#data-analysis)
@@ -38,6 +37,7 @@
 
 ## Data Ingestion
 
+- [Stitch](https://www.stitchdata.com/) (Talend / ETL / Subscription fee)
 - [Logstash](https://www.elastic.co/logstash/) (Elastic / Cloud or On-prem / Hybrid fee)
 - [Filebeat](https://www.elastic.co/beats/filebeat) (Elastic / Cloud or On-prem / Hybrid fee)
 - [Fluentd](https://www.fluentd.org/) (CNCF foundation / Open Source / Free or License fee)
@@ -46,7 +46,7 @@
 
 ## Data Warehouse
 
-- [Aapache Hive]() ()
+- [Aapache Hive](https://hive.apache.org/) (Apache foundation / Hadoop-friendly / MapReduce / Free)
 - [Snowflake](https://www.snowflake.com/) (Multi-cloud / SQL-friendly / Subscription fee)
 - [AWS Redshift](https://aws.amazon.com/en/redshift/) (AWS Cloud / SQL-friendly / Subscription fee)
 - [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) (Azure Cloud / SQL-friendly / Subscription fee)
@@ -65,7 +65,12 @@
 - [Apache Kafka](https://kafka.apache.org/) (Apache foundation / Confluent / Linkedin / Message Broker / Open Source / Free or License fee)
 - [RabbitMQ](https://www.rabbitmq.com/) (VMWare / Message Broker / Free or License fee)
 
-## ETL/ELT
+## Data Transformation
+
+- [Apache Spark](https://spark.apache.org/) (Apache foundation / Databricks / In-memory processing / Open Source / Free or License fee)
+- [Apache Beam](https://beam.apache.org/) (Apache foundation / Google / Data processing / Open Source / Free or License fee)
+- [Apache Storm](https://storm.apache.org/) (Apache foundation / Backtype / Twitter / Streamming processing / Open Source / Free or License fee)
+- [AWS Glue](https://aws.amazon.com/en/glue/) (AWS Cloud / Integrated Data System / ETL / On-demand fee)
 
 ## Data Analysis
 
