@@ -74,41 +74,47 @@
 
 ## Data Analysis
 
-- [Databricks Notebook]() (TBD)
-- [Jupyter Notebook]() (TBD)
-- [Pandas]() (TBD)
-- [Apache Arrow]() (TBD)
-- [Flotly]() (TBD)
+- [Apache Superset](https://superset.apache.org/) (TBD)
+- [Apache Airpal](http://airbnb.io/airpal/) (TBD)
+- [Apache HUE](https://gethue.com/) (TBD)
+- [Databricks Notebook](https://docs.databricks.com/notebooks/index.html) (TBD)
+- [Jupyter Notebook](https://jupyter.org/) (TBD)
+- [Pandas](https://pandas.pydata.org/) (TBD)
+- [Plotly](https://plotly.com/) (TBD)
 
 ## Data Format
 
-- [Apache Parquet]() (TBD)
-- [Apache ORC]() (TBD)
-- [Apache Avro]() (TBD)
-- [Delta]() (TBD)
-- [JSON]() (TBD)
-- [CSV]() (TBD)
-- [TSV]() (TBD)
-- [HDF5]() (TBD)
+- [Apache Parquet](https://parquet.apache.org/) (TBD)
+- [Apache ORC](https://orc.apache.org/) (TBD)
+- [Apache Avro](https://avro.apache.org/) (TBD)
+- [Delta](https://delta.io/) (TBD)
+- [JSON](https://www.json.org/) (TBD)
+- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) (TBD)
+- [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) (TBD)
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) (TBD)
+- [Apache Arrow](https://arrow.apache.org/) (TBD)
 
 ## Business Intelligence
 
-- [Tableau]() (TBD)
-- [Redash]() (TBD)
-- [Data Studio]() (TBD)
-- [PowerBI]() (TBD)
-- [Apache Zeppelin]() (TBD)
-- [Apache HUE]() (TBD)
+- [Apache Zeppelin](https://zeppelin.apache.org/) (TBD)
+- [Tableau](https://www.tableau.com/) (TBD)
+- [Redash](https://redash.io/) (TBD)
+- [Data Studio](https://datastudio.google.com/) (TBD)
+- [PowerBI](https://powerbi.microsoft.com/) (TBD)
 
 ## AI/ML
 
-- [H2O]() (TBD)
-- [Feast]() (TBD)
-- [VertexAI]() (TBD)
-- [Datarobot]() (TBD)
+- [H2O](https://www.h2o.ai/) (TBD)
+- [Feast](https://feast.dev/) (TBD)
+- [VertexAI](https://cloud.google.com/vertex-ai) (TBD)
+- [Data Robot](https://www.datarobot.com/) (TBD)
 
 # Community
 
 ## Vendors
 
-## Open Source / Foundation 
+- [Databricks | Data + AI Summit](https://databricks.com/dataaisummit) (TBD)
+
+## Open Source / Foundation
+
+- [Kafka Summit](https://www.kafka-summit.org/) (TBD)
