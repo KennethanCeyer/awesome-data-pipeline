@@ -12,6 +12,8 @@
    - [Data Storage](#data-storage)
    - [Streaming](#streaming)
    - [Data Analysis](#data-analysis)
+   - [Data Format](#data-format)
+   - [Business Intelligence](#business-intelligence)
    - [AI/ML](#aiml)
 - [Community](#community)
    - [Vendors](#vendors)
