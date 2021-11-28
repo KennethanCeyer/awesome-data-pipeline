@@ -22,11 +22,15 @@
 
 ## Data Lake
 
+- [AWS S3](https://aws.amazon.com/en/s3/) (AWS Cloud / Stroage Object)
+- [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs) (Azure Cloud / Storage Object)
+- [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (GCP Cloud / Storage Object)
+- [Hadoop File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#Introduction) (Hybrid / Open Source / Hadoop-ecosystem)
+- [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
+
 ## Data Warehouse
 
 ## Data Transformation
-
-## Data Storage
 
 ## Streaming
 
