@@ -63,7 +63,11 @@
 ## Streaming
 
 - [Apache Kafka](https://kafka.apache.org/) (Apache foundation / Confluent / Linkedin / Message Broker / Open Source / Free or License fee)
-- [RabbitMQ](https://www.rabbitmq.com/) (VMWare / Message Broker / Free or License fee)
+- [RabbitMQ](https://www.rabbitmq.com/) (VMWare / Messaging Queue / Free or License fee)
+- [AWS Kinesis](https://aws.amazon.com/en/kinesis/) (AWS Cloud / Message Broker / Subscription fee)
+- [AWS SQS](https://aws.amazon.com/en/sqs/) (AWS Cloud / Messaging Queue / Subscription fee)
+- [GCP PubSub](https://cloud.google.com/pubsub/) (Google Cloud / Message Borker / Subscription fee)
+- [Azure Event Hub](https://azure.microsoft.com/en-us/services/event-hubs/) (Azure Cloud / Messsage Borker / Subscription fee)
 
 ## Data Transformation
 
@@ -101,6 +105,7 @@
 - [Apache Zeppelin](https://zeppelin.apache.org/) (Apache foundation / Hadoop-friendly / Business Intelligence (BI) / Open Source / Free or License fee)
 - [Tableau](https://www.tableau.com/) (Salesforce / Business Intelligence (BI) / Hybrid fee)
 - [Redash](https://redash.io/) (Redash Inc / Databricks / Business Intelligence (BI) / Hybrid fee)
+- [Looker](https://looker.com/) (Looker Data Sciences Inc / Business Intelligence (BI) / Subscription fee)
 - [Data Studio](https://datastudio.google.com/) (Google Cloud / Business Intelligence (BI) / Free)
 - [PowerBI](https://powerbi.microsoft.com/) (Microsoft / Business Intelligence (BI) / Subscription fee)
 
