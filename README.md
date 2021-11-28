@@ -26,15 +26,17 @@
 
 - [Apache Airflow](https://airflow.apache.org/) (Apache foundation / Airbnb / Open Source / Free)
 - [Apache Argo](https://argoproj.github.io/argo-workflows/) (CNCF foundation / Kubernetes-friendly / Open Source / Free)
+- [Apache NiFi](https://nifi.apache.org/) (Apache foundation / Dataflow / Free)
 - [Luigi](https://luigi.readthedocs.io/en/stable/) (Spotify / Open Source / Free)
 - [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) (Azure Cloud / Subscription fee)
 
 
 ## Data Ingestion
 
+- [Apache Flume](https://flume.apache.org/) (Apache foundation / Data Ingestion / Open Source / Free)
 - [Stitch](https://www.stitchdata.com/) (Talend / ETL / Subscription fee)
-- [Logstash](https://www.elastic.co/logstash/) (Elastic / Cloud or On-prem / Hybrid fee)
-- [Filebeat](https://www.elastic.co/beats/filebeat) (Elastic / Cloud or On-prem / Hybrid fee)
+- [Logstash](https://www.elastic.co/logstash/) (Elastic / Data Ingestion / Cloud or On-prem / Hybrid fee)
+- [Filebeat](https://www.elastic.co/beats/filebeat) (Elastic / Data Ingestion / Cloud or On-prem / Hybrid fee)
 - [Fluentd](https://www.fluentd.org/) (CNCF foundation / Open Source / Free or License fee)
 - [Datadog](https://www.datadoghq.com/) (Datadog / Cloud / APM / Subscription fee)
 - [New Relic](https://newrelic.com/) (New Relic / Cloud / APM / Subscription fee)
@@ -60,7 +62,9 @@
 
 - [Apache Druid](https://druid.apache.org/) (Apache foundation / Real-time datastore / Free)
 - [Apache Pinot](https://pinot.apache.org/) (Apache foundation / Real-time datastore / Free)
+- [AWS Aurora](https://aws.amazon.com/en/rds/aurora/) (AWS Cloud / Rich-cloud datastore / Subscription fee)
 - [GCP Cloud Spanner](https://cloud.google.com/spanner/) (Google Cloud / HA datastore that breaks away from CAP / Subscription fee)
+- [Azure Cosmos DB](https://azure.microsoft.com/en-us/free/cosmos-db/) (Azure Cloud / NoSQL datastore / Subscription fee)
 
 ## Query Engine
 
@@ -91,6 +95,7 @@
 - [Apache Superset](https://superset.apache.org/) (Apache foundation / Airbnb / Business Intelligence (BI) / Open Source / Free)
 - [Apache Airpal](http://airbnb.io/airpal/) (Apache foundation / Airbnb / Query Editor / Open Source / Free)
 - [Apache HUE](https://gethue.com/) (Apache foundation / Cloudera / Query Editor / Open Source / Free)
+- [Kibana](https://www.elastic.co/kibana/) (Elastic / Dashboard / Hybrid fee)
 - [Databricks Notebook](https://docs.databricks.com/notebooks/index.html) (Databricks / Notebook / Hybrid fee)
 - [Jupyter Notebook](https://jupyter.org/) (Jupyter / Notebook / Open Source / Free)
 - [Pandas](https://pandas.pydata.org/) (NumFOCUS / Data processing / Open Source / Free)
@@ -135,3 +140,15 @@
 ## Open Source / Foundation
 
 - [Kafka Summit](https://www.kafka-summit.org/)
+
+# Materials
+
+## Books
+
+- [O'Reilly - Data Pipelines Pocker Reference](https://books.google.com/books?id=SxgcEAAAQBAJ&printsec=frontcover)
+- [Manning - Data Pipeline with Apache Airflow](https://books.google.com/books?id=8EwnEAAAQBAJ&printsec=frontcover)
+
+## Dummies Guide
+
+- [Snowflake](https://www.snowflake.com/resource/snowflake-dummies-guides/)
+- [Databricks](https://databricks.com/p/ebook/modern-cloud-data-platform-for-dummies)
