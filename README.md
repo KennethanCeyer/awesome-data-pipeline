@@ -28,14 +28,6 @@
 - [Luigi](https://luigi.readthedocs.io/en/stable/) (Spotify / Open Source / Free)
 - [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) (Azure Cloud / Subscription fee)
 
-## Data Lake
-
-- [Hadoop File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#Introduction) (Hybrid / Open Source / Hadoop-ecosystem)
-- [AWS S3](https://aws.amazon.com/en/s3/) (AWS Cloud / Stroage Object)
-- [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs) (Azure Cloud / Storage Object)
-- [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (Google Cloud / Storage Object)
-- [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
-
 
 ## Data Ingestion
 
@@ -45,6 +37,14 @@
 - [Fluentd](https://www.fluentd.org/) (CNCF foundation / Open Source / Free or License fee)
 - [Datadog](https://www.datadoghq.com/) (Datadog / Cloud / APM / Subscription fee)
 - [New Relic](https://newrelic.com/) (New Relic / Cloud / APM / Subscription fee)
+
+## Data Lake
+
+- [Hadoop File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#Introduction) (Hybrid / Open Source / Hadoop-ecosystem)
+- [AWS S3](https://aws.amazon.com/en/s3/) (AWS Cloud / Stroage Object)
+- [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs) (Azure Cloud / Storage Object)
+- [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (Google Cloud / Storage Object)
+- [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
 
 ## Data Warehouse
 
