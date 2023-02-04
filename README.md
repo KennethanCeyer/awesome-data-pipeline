@@ -1,4 +1,5 @@
 <h1 align="center">Awesome Data Pipeline</h1>
+<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome list for Data Pipeline</p>
 
 # Table of contents
