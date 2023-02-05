@@ -6,7 +6,7 @@ Go to the repository on Github and click on the "Fork" button to create a copy o
 2. **Add an entry**:<br/>
 Open the readme.md file in the forked repository and add a new entry for the data pipeline tool or project you would like to include. The entry should be in the following format:
 
-```scss
+```markdown
 - [Project Name](link) - A brief description of the project (optional).
 Make sure to add your entry in the appropriate section, and to keep the alphabetical order of the list.
 ```
