@@ -144,10 +144,12 @@ A series that moves data from source to destination efficiently and automaticall
 ### Vendors
 
 - [Databricks | Data + AI Summit](https://databricks.com/dataaisummit)
+- [Snowflake | Snowflake Summit](https://www.snowflake.com/summit/)
 
 ### Open Source / Foundation
 
 - [Kafka Summit](https://www.kafka-summit.org/)
+- [Airflow Summit](https://airflowsummit.org/)
 
 ## Materials
 
