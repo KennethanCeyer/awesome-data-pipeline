@@ -7,7 +7,7 @@
 :white_check_mark: **Data Pipeline** is: <br/>
 A series that moves data from source to destination efficiently and automatically.
 
-# Table of contents
+## Contents
 
 - [Components](#components)
    - [Workflow Management](#workflow-management)
@@ -26,9 +26,9 @@ A series that moves data from source to destination efficiently and automaticall
    - [Vendors](#vendors)
    - [Open Source / Foundation](#open-source--foundation)
 
-# Components
+## Components
 
-## Workflow Management
+### Workflow Management
 
 - [Apache Airflow](https://airflow.apache.org/) (Apache foundation / Airbnb / Open Source / Free)
 - [Apache Argo](https://argoproj.github.io/argo-workflows/) (CNCF foundation / Kubernetes-friendly / Open Source / Free)
@@ -37,7 +37,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) (Azure Cloud / Subscription fee)
 
 
-## Data Ingestion
+### Data Ingestion
 
 - [Apache Flume](https://flume.apache.org/) (Apache foundation / Data Ingestion / Open Source / Free)
 - [Stitch](https://www.stitchdata.com/) (Talend / ETL / Subscription fee)
@@ -47,7 +47,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [Datadog](https://www.datadoghq.com/) (Datadog / Cloud / APM / Subscription fee)
 - [New Relic](https://newrelic.com/) (New Relic / Cloud / APM / Subscription fee)
 
-## Data Lake
+### Data Lake
 
 - [Hadoop File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html#Introduction) (Hybrid / Open Source / Hadoop-ecosystem)
 - [AWS S3](https://aws.amazon.com/en/s3/) (AWS Cloud / Stroage Object)
@@ -55,7 +55,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [GCP Cloud Storage](https://cloud.google.com/storage/?hl=en) (Google Cloud / Storage Object)
 - [Databricks Delta Lake](https://databricks.com/product/delta-lake-on-databricks) (Hybrid / Multi-cloud / Open Source)
 
-## Data Warehouse
+### Data Warehouse
 
 - [Aapache Hive](https://hive.apache.org/) (Apache foundation / Hadoop-friendly / MapReduce / Free)
 - [Snowflake](https://www.snowflake.com/) (Multi-cloud / SQL-friendly / Subscription fee)
@@ -64,7 +64,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [GCP BigQuery](https://cloud.google.com/bigquery/) (Google Cloud / SQL-friendly / On-demand fee)
 - [IBM DB2](https://www.ibm.com/us-en/products/db2-database) (IBM / On-prem / SQL-friendly / Subscription fee)
 
-## Data Store
+### Data Store
 
 - [Apache Druid](https://druid.apache.org/) (Apache foundation / Real-time datastore / Free)
 - [Apache Pinot](https://pinot.apache.org/) (Apache foundation / Real-time datastore / Free)
@@ -72,14 +72,14 @@ A series that moves data from source to destination efficiently and automaticall
 - [GCP Cloud Spanner](https://cloud.google.com/spanner/) (Google Cloud / HA datastore that breaks away from CAP / Subscription fee)
 - [Azure Cosmos DB](https://azure.microsoft.com/en-us/free/cosmos-db/) (Azure Cloud / NoSQL datastore / Subscription fee)
 
-## Query Engine
+### Query Engine
 
 - [Presto](https://prestodb.io/) (Facebook / Open Source / SQL-friendly / Free or License fee)
 - [Apache Impala](https://impala.apache.org/) (Apache foundation / Cloudera / Open Source / SQL-friendly / Free or License fee)
 - [AWS Athena](https://aws.amazon.com/en/athena/) (AWS Cloud / SQL-friendly / On-demand fee)
 - [AWS Redshift Spectrum](https://docs.aws.amazon.com/en_us/redshift/latest/dg/c-using-spectrum.html) (AWS Cloud / SQL-friendly / On-demand fee)
 
-## Streaming
+### Streaming
 
 - [Apache Kafka](https://kafka.apache.org/) (Apache foundation / Confluent / Linkedin / Message Broker / Open Source / Free or License fee)
 - [RabbitMQ](https://www.rabbitmq.com/) (VMWare / Messaging Queue / Free or License fee)
@@ -88,7 +88,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [GCP PubSub](https://cloud.google.com/pubsub/) (Google Cloud / Message Borker / Subscription fee)
 - [Azure Event Hub](https://azure.microsoft.com/en-us/services/event-hubs/) (Azure Cloud / Messsage Borker / Subscription fee)
 
-## Data Transformation
+### Data Transformation
 
 - [Apache Spark](https://spark.apache.org/) (Apache foundation / Databricks / In-memory processing / Open Source / Free or License fee)
 - [Apache Beam](https://beam.apache.org/) (Apache foundation / Google / Data processing / Open Source / Free or License fee)
@@ -96,7 +96,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [Apache Flink](https://flink.apache.org/) (Apache foundation / Stream processing / Open Source / Free)
 - [AWS Glue](https://aws.amazon.com/en/glue/) (AWS Cloud / Integrated Data System / ETL / On-demand fee)
 
-## Data Analysis
+### Data Analysis
 
 - [Apache Superset](https://superset.apache.org/) (Apache foundation / Airbnb / Business Intelligence (BI) / Open Source / Free)
 - [Apache Airpal](http://airbnb.io/airpal/) (Apache foundation / Airbnb / Query Editor / Open Source / Free)
@@ -107,7 +107,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [Pandas](https://pandas.pydata.org/) (NumFOCUS / Data processing / Open Source / Free)
 - [Plotly](https://plotly.com/) (Plotly / Data visualization / Hybrid fee)
 
-## Data Format
+### Data Format
 
 - [Apache Parquet](https://parquet.apache.org/) (Apache foundation / Data Format / Open Source / Free)
 - [Apache ORC](https://orc.apache.org/) (Apache foundation / Hortonworks / Facebook / Data Format / Open Source / Free)
@@ -120,7 +120,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) (Data Format / Free)
 - [HDF5](https://www.hdfgroup.org/solutions/hdf5/) (The HDF Group / Data Format / Open Source (licensed by [HDF5](https://www.hdfgroup.org/licenses.)) / Free)
 
-## Business Intelligence
+### Business Intelligence
 
 - [Apache Zeppelin](https://zeppelin.apache.org/) (Apache foundation / Business Intelligence (BI) / Open Source / Free or License fee)
 - [Tableau](https://www.tableau.com/) (Salesforce / Business Intelligence (BI) / Hybrid fee)
@@ -129,7 +129,7 @@ A series that moves data from source to destination efficiently and automaticall
 - [Data Studio](https://datastudio.google.com/) (Google Cloud / Business Intelligence (BI) / Free)
 - [PowerBI](https://powerbi.microsoft.com/) (Microsoft / Business Intelligence (BI) / Subscription fee)
 
-## AI/ML
+### AI/ML
 
 - [H2O](https://www.h2o.ai/) (H2O.ai / Model Evaluation / Subscription fee)
 - [Feast](https://feast.dev/) (Tecton / Gojek / Feature Store / Open Source / Free)
@@ -137,24 +137,24 @@ A series that moves data from source to destination efficiently and automaticall
 - [Data Robot](https://www.datarobot.com/) (DataRobot Inc / Feature Engineering / Subscription fee)
 - [WandB](https://wandb.ai/) (Weights & Biases / Model Evaluation / Subscription fee)
 
-# Community
+## Community
 
-## Vendors
+### Vendors
 
 - [Databricks | Data + AI Summit](https://databricks.com/dataaisummit)
 
-## Open Source / Foundation
+### Open Source / Foundation
 
 - [Kafka Summit](https://www.kafka-summit.org/)
 
-# Materials
+## Materials
 
-## Books
+### Books
 
 - [O'Reilly - Data Pipelines Pocker Reference](https://books.google.com/books?id=SxgcEAAAQBAJ&printsec=frontcover)
 - [Manning - Data Pipeline with Apache Airflow](https://books.google.com/books?id=8EwnEAAAQBAJ&printsec=frontcover)
 
-## Dummies Guide
+### Dummies Guide
 
 - [Snowflake](https://www.snowflake.com/resource/snowflake-dummies-guides/)
 - [Databricks](https://databricks.com/p/ebook/modern-cloud-data-platform-for-dummies)
