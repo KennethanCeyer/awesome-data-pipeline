@@ -2,6 +2,9 @@
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome list for Data Pipeline</p>
 
+:white_check_mark: **Data Pipeline** is: <br/>
+A series that moves data from source to destination efficiently and automatically.
+
 # Table of contents
 
 - [Components](#components)
