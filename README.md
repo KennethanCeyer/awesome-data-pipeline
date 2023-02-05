@@ -2,6 +2,8 @@
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
 <p align="center">Awesome list for Data Pipeline</p>
 
+<p align="center"><img width="740" src="./cover.png" alt="Awesome Data Pipeline - Awesome list for data pipeline" /></p>
+
 :white_check_mark: **Data Pipeline** is: <br/>
 A series that moves data from source to destination efficiently and automatically.
 
