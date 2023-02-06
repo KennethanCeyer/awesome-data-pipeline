@@ -1,8 +1,8 @@
-<h1 align="center">Awesome Data Pipeline</h1>
-<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></p>
-<p align="center">Awesome list for Data Pipeline</p>
+# Awesome Data Pipeline [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p align="center"><img width="740" src="./cover.png" alt="Awesome Data Pipeline - Awesome list for data pipeline" /></p>
+Awesome list for Data Pipeline
+
+<img src="./cover.png" alt="Awesome Data Pipeline - Awesome list for data pipeline" />
 
 :white_check_mark: **Data Pipeline** is: <br/>
 A series that moves data from source to destination efficiently and automatically.
